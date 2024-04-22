@@ -7,6 +7,7 @@ Initially, I cleaned the data by replacing all missing values with the median of
 Next, I conducted exploratory data analysis (EDA) to understand the relationships and distributions among all the variables, and then removed less important variables.
 
 To improve the readability of the graphs, I grouped the variables into different categories based on whether they had more than 20 different values or fewer than 8 different values.
+
 ![distrib](https://github.com/TomTremerel/XGBoost_Churn_Prediction.github/assets/156415815/fb89071f-549d-436f-93bf-50527ca75dbd)
 
 
