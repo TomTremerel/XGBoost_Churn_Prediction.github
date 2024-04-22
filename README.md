@@ -18,4 +18,6 @@ Then, I plotted the relationships between churn and these variables:
 
 As we can see, one of the most explanatory factors is not the satisfaction rate, contrary to what we might have expected.
 
-The third part is the building of the model. The specifity here is that I learned how to use the sci-kit learn pipeline method which allows to implement a sequence of data transformers. Then I used a supervised model classifier : XGBoostClassifier
+The third part is the building of the model. The specifity here is that I learned how to use the sci-kit learn pipeline method which allows to implement a sequence of data transformers. Then I used a supervised model classifier : XGBoostClassifier. 
+
+We have an accuracy rate of 97% on the test set. 
