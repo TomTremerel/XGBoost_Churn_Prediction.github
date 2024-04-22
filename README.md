@@ -20,4 +20,6 @@ As we can see, one of the most explanatory factors is not the satisfaction rate,
 
 The third part is the building of the model. The specifity here is that I learned how to use the sci-kit learn pipeline method which allows to implement a sequence of data transformers. Then I used a supervised model classifier : XGBoostClassifier. 
 
+This model begins with building a decision tree and then enhances itself by incorporating other models such as Random Forest and gradient optimization.
+
 We have an accuracy rate of 97% on the test set. 
